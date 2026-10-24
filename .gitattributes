@@ -1,0 +1,8 @@
+public/** linguist-vendored
+public/**/*.html linguist-vendored
+*.md linguist-documentation
+src/** linguist-detectable
+package-lock.json linguist-generated
+*.ico binary
+dist/* linguist-vendored
+*.map linguist-generated
